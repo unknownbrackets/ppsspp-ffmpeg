@@ -76,7 +76,6 @@ PARSERS="\
     ${GENERAL} \
     --extra-cflags="-D__STDC_CONSTANT_MACROS -O3" \
     --enable-zlib \
-	--disable-yasm \
     --disable-everything \
     ${MODULES} \
     ${VIDEO_DECODERS} \
